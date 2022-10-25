@@ -17,4 +17,3 @@ Notes:
 * NM - Missing 2020 data
 * SD - Missing 2020 data
 * WV - No data for West Virginia
-* Missing four additional states
