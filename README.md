@@ -1,6 +1,6 @@
 # election-results-redistricting
 
-The file in this repo is a work in progress. This is the product of an attempt to re-map election results in the 2012-2020 districts to the new 2022 districts on a precinct-by-precinct basis.
+The file in this repo is a work in progress. This is the product of an attempt to re-map election results in the 2012-2020 districts to the new 2022 districts on a precinct-by-precinct basis. Data comes primarily from [Dave's Redistricting](https://davesredistricting.org/maps#home). Errors are likely my own.
 
 redist_results.csv includes:
 * year - the year the election occured (2016, 2018, 2020).
